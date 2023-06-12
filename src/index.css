@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+
+.navBtn{
+    @apply bg-gray-700 w-20 h-12 text-sm text-left font-semibold text-white rounded-md pl-4;
+}
+
+.textFormBtn{
+    @apply bg-gray-700 font-semibold m-1 text-white text-sm px-4 py-2 rounded-lg active:focus:outline-none active:bg-blue-900;
+}
+
+@tailwind utilities;
+
