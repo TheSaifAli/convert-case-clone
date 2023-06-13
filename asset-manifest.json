@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/convertCaseClone/static/css/main.2e6d9b4c.css",
+    "main.js": "/convertCaseClone/static/js/main.54675585.js",
+    "index.html": "/convertCaseClone/index.html",
+    "main.2e6d9b4c.css.map": "/convertCaseClone/static/css/main.2e6d9b4c.css.map",
+    "main.54675585.js.map": "/convertCaseClone/static/js/main.54675585.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e6d9b4c.css",
+    "static/js/main.54675585.js"
+  ]
+}
